@@ -8,4 +8,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <declare-styleable name="SLoadingIndicatorView">
+        <attr name="item_start" format="boolean"/>
+    </declare-styleable>
+    <declare-styleable name="EllipsizingTextView">
+        <attr name="max_lines" format="integer"/>
+    </declare-styleable>
+
 </resources>
